@@ -1,0 +1,9 @@
+{
+	"ip":"CristianLMAO1.aternos.me",
+	"port": 25565,
+	"name": "drugsANTICHEAT",
+	"auto-night-skip":"false",
+	"login-enabled":"true",
+	"register-cmd":"/register aQter35ac aQter35ac",
+	"login-cmd":"/login aQter35ac"
+}
